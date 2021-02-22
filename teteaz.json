@@ -1,0 +1,14 @@
+{  
+    "Nom/Libellé image": "yegff",
+    "Type d’image": "PassionFroid",
+    "Photo avec produit": "oui/non",
+    "Photo avec humain": "oui/non",
+    "Photo institutionnelle": "oui/non",
+    "Format": "vertical / horizontal",
+    "Crédits photos": "nom de l’auteur ou banque d’images",
+    "Droits d’utilisation limités" : "Oui/Non",
+    "Copyright" : "complété si Droit d’utilisation limité = Oui",
+    "Date de fin de droits d’utilisation": "2020-12-01",
+    "Tags (Saisie libre non normé)": "libre",
+    "filename": "efter.jpg"
+}
